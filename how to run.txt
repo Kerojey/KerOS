@@ -1,0 +1,12 @@
+use Linux or WSL
+
+  make run
+
+or burn usb drive and boot from it (MBR)
+
+Depencies:
+nasm
+gdb(optional)
+qemu(optional)
+gcc/clang
+make
